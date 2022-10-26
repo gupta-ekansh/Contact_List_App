@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    color:darkmagenta;
+}
+form input{
+    background-color:inherit;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+form button{
+    background-color:inherit;
+}
+#info{
+    display: inline;
+}
